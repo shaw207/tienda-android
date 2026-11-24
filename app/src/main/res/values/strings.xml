@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Tienda</string>
+    <string name="products_title">Productos</string>
+    <string name="favorites">Favoritos</string>
+    <string name="favorites_title">Favoritos guardados</string>
+    <string name="no_favorites">Todavía no hay productos guardados</string>
+    <string name="product_image">Imagen del producto</string>
+    <string name="save_favorite">Guardar en favoritos</string>
+    <string name="catalog_error">No se han podido cargar los productos</string>
+    <string name="favorite_saved">Producto guardado en favoritos</string>
+    <string name="favorite_save_error">No se ha podido guardar</string>
+</resources>

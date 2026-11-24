@@ -1,0 +1,68 @@
+{
+  "products": [
+    {
+      "id": 4,
+      "title": "Red Lipstick",
+      "price": 12.99,
+      "description": "The Red Lipstick is a classic and bold choice for adding a pop of color to your lips. With a creamy and pigmented formula, it provides a vibrant and long-lasting finish.",
+      "category": "beauty",
+      "thumbnail": "file:///android_asset/catalog/4.webp"
+    },
+    {
+      "id": 16,
+      "title": "Apple",
+      "price": 1.99,
+      "description": "Fresh and crisp apples, perfect for snacking or incorporating into various recipes.",
+      "category": "groceries",
+      "thumbnail": "file:///android_asset/catalog/16.webp"
+    },
+    {
+      "id": 6,
+      "title": "Calvin Klein CK One",
+      "price": 49.99,
+      "description": "CK One by Calvin Klein is a classic unisex fragrance, known for its fresh and clean scent. It's a versatile fragrance suitable for everyday wear.",
+      "category": "fragrances",
+      "thumbnail": "file:///android_asset/catalog/6.webp"
+    },
+    {
+      "id": 12,
+      "title": "Annibale Colombo Sofa",
+      "price": 2499.99,
+      "description": "The Annibale Colombo Sofa is a sophisticated and comfortable seating option, featuring exquisite design and premium upholstery for your living room.",
+      "category": "furniture",
+      "thumbnail": "file:///android_asset/catalog/12.webp"
+    },
+    {
+      "id": 18,
+      "title": "Cat Food",
+      "price": 8.99,
+      "description": "Nutritious cat food formulated to meet the dietary needs of your feline friend.",
+      "category": "groceries",
+      "thumbnail": "file:///android_asset/catalog/18.webp"
+    },
+    {
+      "id": 21,
+      "title": "Cucumber",
+      "price": 1.49,
+      "description": "Crisp and hydrating cucumbers, ideal for salads, snacks, or as a refreshing side.",
+      "category": "groceries",
+      "thumbnail": "file:///android_asset/catalog/21.webp"
+    },
+    {
+      "id": 23,
+      "title": "Eggs",
+      "price": 2.99,
+      "description": "Fresh eggs, a versatile ingredient for baking, cooking, or breakfast.",
+      "category": "groceries",
+      "thumbnail": "file:///android_asset/catalog/23.webp"
+    },
+    {
+      "id": 27,
+      "title": "Honey Jar",
+      "price": 6.99,
+      "description": "Pure and natural honey in a convenient jar, perfect for sweetening beverages or drizzling over food.",
+      "category": "groceries",
+      "thumbnail": "file:///android_asset/catalog/27.webp"
+    }
+  ]
+}
